@@ -130,7 +130,7 @@ Compiling and Makefiles
 
 [__example Makefile__](examples/Makefile)
 
-[__verbose guide to writing Makefiles__](https://www.cs.bu.edu/teaching/cpp/writing-makefiles/)
+[__verbose guide to writing Makefiles__](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html)
 
 Pointers vs. References
 ----------------
